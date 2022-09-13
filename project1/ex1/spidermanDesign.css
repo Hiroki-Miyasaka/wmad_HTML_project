@@ -1,0 +1,59 @@
+header {
+    position:absolute;
+    width: 1440px;
+    height: 760px;
+    left: 0px;
+    top: 0px;
+    background-image: url(./spiderman_images/912868.png);
+}
+
+nav li {
+    list-style: none;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    white-space: nowrap;
+    color: #FFFFFF;
+}
+
+.biography {
+    position: absolute;
+    width: 73px;
+    height: 19px;
+    left: 86px;
+    top: 30px;
+}
+
+.publication_history {
+    position: absolute;
+    width: 140px;
+    height: 19px;
+    left: 202px;
+    top: 30px;
+}
+
+.personality_and_themes {
+    position: absolute;
+    width: 170px;
+    height: 19px;
+    left: 386px;
+    top: 30px;
+}
+
+.powers_skills_equipment {
+    position: absolute;
+    width: 219px;
+    height: 19px;
+    left: 600px;
+    top: 30px;
+}
+
+.supporting_cast {
+    position: absolute;
+    width: 115px;
+    height: 19px;
+    left: 863px;
+    top: 30px;
+}
