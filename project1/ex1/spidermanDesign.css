@@ -1,8 +1,9 @@
 header img{
-    position:absolute;
-    width: 100%;
-    height: auto;
-    background-size: cover;
+    position: absolute;
+    width: 1440px;
+    height: 760px;
+    left: 0px;
+    top: 0px;
 }
 
 nav li {
@@ -101,7 +102,7 @@ nav li {
 
 .publication_history h1 {
     position: absolute;
-    width: 313px;
+    width: fit-content;
     height: 42px;
     left: 90px;
     top: 1826px;
@@ -112,4 +113,5 @@ nav li {
     line-height: 42px;
     background-color: #FFFFFF;
     color: #E40F29;
+    white-space: nowrap;
 }
