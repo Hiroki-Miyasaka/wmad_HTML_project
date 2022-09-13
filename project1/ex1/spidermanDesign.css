@@ -1,9 +1,8 @@
 header img{
-    position: absolute;
-    width: 1440px;
-    height: 760px;
-    left: 0px;
-    top: 0px;
+    position:absolute;
+    width: 100%;
+    height: auto;
+    background-size: cover;
 }
 
 nav li {
@@ -61,7 +60,7 @@ nav li {
     position: absolute;
     width: 512px;
     height: 664px;
-    left: 127px;
+    left: -80px;
     top: 871px;
 }
 
@@ -69,7 +68,7 @@ nav li {
     position: absolute;
     width: 164px;
     height: 42px;
-    left: 739px;
+    left: 600px;
     top: 1015px;
     font-family: 'Roboto';
     font-style: normal;
@@ -83,7 +82,7 @@ nav li {
     position: absolute;
     width: 593px;
     height: 288px;
-    left: 739px;
+    left: 600px;
     top: 1103px;
     font-family: 'Roboto';
     font-style: normal;
@@ -96,15 +95,16 @@ nav li {
     position: absolute;
     width: 1435px;
     height: 767px;
-    left: 5px;
+    left: -200px;
     top: 1646px;
 }
 
 .publication_history h1 {
     position: absolute;
-    width: fit-content;
+    padding: 10px 20px;
+    width: 360px;
     height: 42px;
-    left: 90px;
+    left: -100px;
     top: 1826px;
     font-family: 'Roboto';
     font-style: normal;
