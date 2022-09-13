@@ -115,3 +115,104 @@ nav li {
     color: #E40F29;
     white-space: nowrap;
 }
+
+.publication_history_explain {
+    position: absolute;
+    width: 664px;
+    height: 96px;
+    left: -100px;
+    top: 1933px;
+}
+
+.publication_history_explain p {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.personality_and_themes_title {
+    position: absolute;
+    width: 382px;
+    height: 42px;
+    left: -100px;
+    top: 2502px;
+}
+
+.personality_and_themes_title h2 {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 42px;
+    color: #416FBF;
+    white-space: nowrap;
+}
+
+.personality_and_themes_explain {
+    position: absolute;
+    width: 1254px;
+    height: 98px;
+    top: 2590px;
+}
+
+/* .personality_and_themes_explain p {
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+} */
+
+.personality_and_themes_explain_position1 {
+    position: absolute;
+    left: -100px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+    
+}
+
+.personality_and_themes_explain_position2 {
+    position: absolute;
+    left: -50px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+    top: 80px
+}
+
+.personality_and_themes_explain_position3 {
+    position: absolute;
+    width: 973px;
+    height: 25px;
+    left: -85px;
+    top: 180px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.personality_and_themes_explain_position4 {
+    position: absolute;
+    left: -50px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #000000;
+    top: 230px
+}
