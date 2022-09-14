@@ -300,3 +300,21 @@ nav li {
     line-height: 24px;
     color: #FFFFFF;
 }
+
+.brown {
+    text-decoration: underline;
+    color: #9A1D23;
+}
+
+.white {
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.brown_italic {
+    text-decoration: underline;
+    color: #9A1D23;
+    font-style: italic;
+    font-weight: bold;
+}
