@@ -110,11 +110,42 @@ main {
     line-height: 179.19%;
     }
 
+.table_area {
+    margin-top: 30px;
+    margin-right: 24px;
+    margin-left: 24px;
+}
 
+table {
+    background-color: #F5F7F8;
+    border-spacing: 11px;
+    padding-top: 30px;
+    padding-bottom: 28px;
+}
+
+table tr {
+    vertical-align: top;
+}
+
+table tr td {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 179.19%;
+    color: #000000;
+}
 
 .green_line {
     font-weight: 700;
     font-size: 20px;
     color: #06C755;
     text-decoration: underline;
+}
+
+.green {
+    color: #06C755;
+}
+
+.white_background {
+    background-color: #FFFFFF;
+    padding-left: 14px;
 }
