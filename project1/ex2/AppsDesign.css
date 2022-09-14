@@ -10,7 +10,7 @@ header {
     margin-top: 53px;
     margin-left: 88px;
     border-radius: 16px;
-    border: 1px black solid; 
+    background: #FFFFFF; 
 }
 
 /* header ul {
@@ -37,7 +37,7 @@ main {
     margin-top: 53px;
     margin-right: 88px;
     border-radius: 16px;
-    border: 1px black solid;
+    background: #FFFFFF;
 }
 
 .title_area {
@@ -69,3 +69,33 @@ main {
     color: #737677;
     white-space: nowrap;
 }
+
+.title_explain_area {
+    margin-top: 25px;
+}
+
+.title_explain_area p {
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 179.19%;
+    color: #000000;
+    padding-left: 24px;
+    padding-right: 29px;
+}
+
+.item_area {
+    margin-left: 24px;
+}
+
+.item_area h2 {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 179.19%;
+    color: #1970F7;
+}
+
+.item_image {
+    text-align: center;
+    margin-top: 42px;
+}
+
