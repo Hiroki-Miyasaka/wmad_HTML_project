@@ -99,3 +99,14 @@ main {
     margin-top: 42px;
 }
 
+.item_explain {
+    margin-left: 24px;
+    margin-right: 20px;
+    margin-top: 44px;
+}
+
+.item_explain p {
+    font-size: 20px;
+    line-height: 179.19%;
+    }
+
