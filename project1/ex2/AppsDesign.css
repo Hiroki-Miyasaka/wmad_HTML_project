@@ -83,11 +83,11 @@ main {
     padding-right: 29px;
 }
 
-.item_area {
+.item_title {
     margin-left: 24px;
 }
 
-.item_area h2 {
+.item_title h2 {
     font-weight: 700;
     font-size: 24px;
     line-height: 179.19%;
@@ -110,3 +110,11 @@ main {
     line-height: 179.19%;
     }
 
+
+
+.green_line {
+    font-weight: 700;
+    font-size: 20px;
+    color: #06C755;
+    text-decoration: underline;
+}
