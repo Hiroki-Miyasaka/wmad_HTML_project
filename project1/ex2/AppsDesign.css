@@ -29,7 +29,7 @@ header li {
     white-space: nowrap;
     padding-top: 29px;
     padding-bottom: 30px;
-    /* padding-left: -26px; */
+    margin-left: -20px
 }
 
 main {
