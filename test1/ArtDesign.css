@@ -107,20 +107,54 @@ header li {
     margin-top: 50px;
 }
 
-table {
+.abstract_table_area table {
     margin: auto;
     border-spacing: 10px;
 }
 
-table th {
+.abstract_table_area table th {
     padding: 5px 10px;
     border: 1px solid black;
     text-align: center;
 }
 
-table td {
+.abstract_table_area table td {
     padding: 5px 10px;
     border: 1px solid black;
     text-align: center;
 }
 
+.title_center_area{
+    margin-top: 200px;
+    text-align: center;
+}
+
+.gallery_image_area1 {
+    margin-top: 110px;
+    margin-left: 150px;
+}
+
+.gallery_image_area2 {
+    margin-left: 750px;
+    margin-top: -200px;
+}
+
+.gallery_image_area3 {
+    margin-left: 150px;
+    margin-top: -200px;
+}
+
+.refrences_table_area {
+    margin-top: 45px;
+}
+
+.refrences_table_area table {
+    margin: auto;
+    border-spacing: 10px;
+}
+
+.table_border{
+    padding: 5px 10px;
+    border: 1px solid black;
+    border-radius: 3px;
+}
