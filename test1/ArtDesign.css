@@ -102,3 +102,25 @@ header li {
     display: inline-block;
     background: linear-gradient(270deg, rgba(217, 217, 217, 0.49) 33.19%, rgba(217, 217, 217, 0) 59.86%);
 }
+
+.abstract_table_area {
+    margin-top: 50px;
+}
+
+table {
+    margin: auto;
+    border-spacing: 10px;
+}
+
+table th {
+    padding: 5px 10px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+table td {
+    padding: 5px 10px;
+    border: 1px solid black;
+    text-align: center;
+}
+
