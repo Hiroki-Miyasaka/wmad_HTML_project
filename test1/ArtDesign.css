@@ -163,12 +163,20 @@ header li {
 }
 
 .table_border{
-    padding: 5px 10px;
+    padding: 15px 15px;
     border: 1px solid black;
     border-radius: 3px;
 }
 
-.underline {
+.underline_italic {
     font-style: italic;
     text-decoration: underline;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.grey {
+    color: #737677;
 }
