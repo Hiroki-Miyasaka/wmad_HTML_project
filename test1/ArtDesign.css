@@ -103,8 +103,16 @@ header li {
     background: linear-gradient(270deg, rgba(217, 217, 217, 0.49) 33.19%, rgba(217, 217, 217, 0) 59.86%);
 }
 
+.abstract_movie {
+    position: relative;
+}
+
+.abstract_image_area{
+    position: absolute;
+}
+
+
 .abstract_table_area {
-    background-image: url(./ArtImages/Abstract.png);
     margin-top: 50px;
 }
 
