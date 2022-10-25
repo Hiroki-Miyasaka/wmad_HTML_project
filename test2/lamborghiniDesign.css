@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+}
+
+header {
+    background-image: url(./images/background.png);
+    height: 750px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 25px;
+}
+
+.lambo {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 30px;
+    padding-left: 85px;
+}
+
+.lambo h1 {
+    color: #FABD07;
+    font-family: 'SF Pro Display';
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 29px;
+    padding-top: 10px;
+}
+
+.navi {
+    padding-top: 10px;
+    padding-right: 85px;
+}
+
+.navi ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    gap: 55px;
+}
+
+.navi a {
+    color: #FFFFFF;
+    font-family: 'SF Pro Display';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+}
