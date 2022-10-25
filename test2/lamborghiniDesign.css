@@ -90,7 +90,11 @@ main {
 }
 
 .images img {
-    width: 46%;
+    width: 40%;
     height: auto;
+}
+
+.images img:hover {
+    transform: scale(1.1, 1.1);
 }
 
