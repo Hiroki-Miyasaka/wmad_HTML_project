@@ -40,6 +40,7 @@ header {
 }
 
 .navi a {
+    text-decoration: none;
     color: #FFFFFF;
     font-family: 'SF Pro Display';
     font-weight: 500;
@@ -61,11 +62,11 @@ main {
 }
 
 .tier nav {
-    display: none;
+    display: none; 
 }
 
 .tier ul {
-    padding-left: 0;
+    padding-left: 10px;
     list-style: none;
     background-color: #DDDDDD;
     border-radius: 10px;
@@ -73,8 +74,11 @@ main {
 }
 
 .tier li {
-    padding: 20px 5px 20px 5px; 
-    white-space: nowrap;
+    padding: 30px 5px 30px 5px; 
+    font-family: 'SF Pro Display';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
 }
 
 .tier img:hover + nav{
@@ -112,11 +116,12 @@ main {
     margin-top: 60px;
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-between;
     gap: 60px;
 }
 
 .images img {
-    width: 40%;
+    width: 46%;
     height: auto;
 }
 
