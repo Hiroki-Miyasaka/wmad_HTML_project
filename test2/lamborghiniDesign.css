@@ -82,3 +82,15 @@ main {
     line-height: 19px;
 }
 
+.images {
+    margin-top: 60px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 60px;
+}
+
+.images img {
+    width: 46%;
+    height: auto;
+}
+
